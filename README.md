@@ -1,0 +1,2 @@
+# Random-Graphs
+This is a presentation on the article " U -bootstrap percolation: Critical probability, exponential decay and applications" by author Ivailo Hartarsky, Ann. Inst. H. Poincaré Probab. Statist. 57(3): 1255-1280 (August 2021). DOI: 10.1214/20-AIHP1112. This was done as part of the course Random Graphs in the second semester in the Advanced Mathematics M2 program at ENS de Lyon. The project was done in collaboration with Leo Davy and Aleksandr Pak.
